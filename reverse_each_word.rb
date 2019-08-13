@@ -5,3 +5,5 @@ def reverse_each_word(string)
   return new_array
   end
 end
+
+reverse_each_word(reverse_string)
