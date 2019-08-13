@@ -1,4 +1,3 @@
-reverse_string = "Hello there, and how are you?"
 
 def reverse_each_word(string)
   new_array = string.split(" ")
@@ -9,7 +8,6 @@ def reverse_each_word(string)
   return reverse_array.join(" ")
 end
 
-reverse_each_word(reverse_string)
 
 def reverse_each_word(string)
   new_array = string.split(" ")
